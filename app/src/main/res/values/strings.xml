@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Medisolv</string>
+    <string name="login">Login</string>
+    <string name="register">Sign Up</string>
+    <string name="regUser">Already a registered user</string>
+    <string name="newUser">New User?</string>
+    <string name="star">*</string>
+    <string name="fn">First Name</string>
+    <string name="ln">Last Name</string>
+    <string name="mobile">Mobile #</string>
+    <string name="email">E-mail</string>
+    <string name="dob">DD-MMM-YYYY</string>
+    <string name="regType">Registration type</string>
+    <string name="spl">Specialisation</string>
+    <string name="license">License #</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="spinner1_array">
+        <item>Mr.</item>
+        <item>Ms.</item>
+        <item>Mrs.</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="regType_array">
+        <item>Registration type</item>
+        <item>Doctor</item>
+        <item>Patient</item>
+        <item>Pharma</item>
+    </string-array>
+</resources>
